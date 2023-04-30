@@ -8,8 +8,7 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 
 1.	Hardware – PCs
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
-3.	
-4.	
+
 ## Algorithm:
 
 
